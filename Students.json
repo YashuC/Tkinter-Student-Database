@@ -1,0 +1,13 @@
+{
+    "STUDENTS": [
+        {
+            "Student Name": "Tim",
+            "Rollno": 69,
+            "Gender": "Male",
+            "Address Of Correspondence": "New York",
+            "Phone Number": "696969",
+            "Batch Name": "Batch-1",
+            "Hostel Facility": "Yes"
+        }
+    ]
+}
